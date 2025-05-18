@@ -1,0 +1,23 @@
+{
+  "devDependencies": {
+    "tailwindcss": "^4.1.7"
+  },
+  "name": "alx-intermediate-frontend",
+  "version": "1.0.0",
+  "main": "tailwind.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rasaq-ola/alx-intermediate-frontend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rasaq-ola/alx-intermediate-frontend/issues"
+  },
+  "homepage": "https://github.com/rasaq-ola/alx-intermediate-frontend#readme",
+  "description": ""
+}
